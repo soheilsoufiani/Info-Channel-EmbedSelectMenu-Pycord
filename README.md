@@ -1,0 +1,1 @@
+# Info-Channel-EmbedSelectMenu-Pycord
